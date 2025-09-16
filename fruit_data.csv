@@ -1,0 +1,201 @@
+,fruit_type,color,size,weight
+0,grape,Yellow,Tiny,8.30338479
+1,apple,Pink,Largee,80.97637018
+2,banana,Pale Yellow,Large,74.61519234
+3,grape,Red,Tiny,6.924069601
+4,banana,Creamy White,Largee,82.00254224
+5,banana,Green,Large,89.71911557
+6,apple,Green,Largee,72.03624304
+7,grape,Green,Small,5.371310192
+8,apple,Pink,Largee,87.27217831
+9,grape,Red,Small,7.409021365
+10,banana,Creamy White,Largee,77.12120021
+11,apple,Green,Large,123.0683952
+12,grape,Red,Tiny,7.210973735
+13,apple,Yellow,Largee,130.7218665
+14,banana,Yellow1,Largee,39.07244748
+15,grape,Purple,Tiny,4.309717913
+16,apple,Green,Small,118.1736162
+17,banana,Pale Yellow,Large,32.32644964
+18,apple,Green,Medium,87.27217831
+19,banana,Yellow1,Large,77.12120021
+20,apple,Pink,Largee,92.59265388
+21,apple,Yellow,Small,130.7218665
+22,grape,Purple,Small,5.822352899
+23,apple,Pink,Largee,106.2719314
+24,grape,Red,Tiny,9.77454556
+25,grape,Green,Medium,5.937050796
+26,apple,Green,Small,250
+27,apple,Red,Medium,25.03832256
+28,grape,Purple,Tiny,7.409021365
+29,apple,Pink,Medium,85.24782703
+30,banana,Yellow,Medium,82.00254224
+31,banana,Green,Small,70.31401279
+32,grape,Purple,Medium,6.924069601
+33,apple,Yellow,Medium,250
+34,grape,Purple,Tiny,10.90219764
+35,apple,Green,Large,72.03624304
+36,banana,Creamy White,Medium,78.3747867
+37,grape,Yellow,Tiny,1
+38,grape,Black,Small,4.651554368
+39,apple,Green,Large,114.8459421
+40,grape,Red,Tiny,7.668747038
+41,apple,Green,Small,92.57893395
+42,grape,Green,Medium,5.822352899
+43,banana,Green,Large,39.07244748
+44,banana,Pale Yellow,Largee,94.36781461
+45,grape,Black,Tiny,6.646753328
+46,banana,Yellow,Medium,116.3805427
+47,grape,Green,Tiny,4.824470755
+48,apple,Red,Large,108.0344696
+49,apple,Red,Small,92.03583555
+50,apple,Green,Small,81.29824151
+51,banana,Creamy White,Small,32.32644964
+52,grape,Red,Tiny,6.366469144
+53,banana,Pale Yellow,Large,101.649728
+54,grape,Yellow,Medium,6.452329859
+55,grape,Black,Small,6.646753328
+56,apple,Yellow,Largee,68.72025424
+57,banana,Creamy White,Small,116.3805427
+58,apple,Red,Largee,50.57733668
+59,apple,Green,Large,85.24782703
+60,banana,Creamy White,Largee,101.649728
+61,grape,Red,Tiny,6.215846475
+62,grape,Purple,Tiny,9.77454556
+63,grape,Yellow,Medium,4.309717913
+64,banana,Yellow,Small,107.7779184
+65,banana,Green,Largee,78.3747867
+66,banana,Yellow,Medium,32.32644964
+67,banana,Green,Largee,109.3762729
+68,apple,Red,Small,92.59265388
+69,grape,Black,Small,4.651554368
+70,apple,Pink,Small,96.04021592
+71,banana,Creamy White,Medium,89.71911557
+72,apple,Green,Medium,118.1736162
+73,apple,Pink,Large,73.27469355
+74,grape,Red,Small,7.668747038
+75,apple,Green,Large,72.03624304
+76,apple,Yellow,Largee,92.57893395
+77,grape,Green,Small,9.269920664
+78,banana,Yellow,Largee,101.649728
+79,apple,Green,Large,123.0683952
+80,grape,Yellow,Small,7.329652827
+81,apple,Pink,Small,43.2879693
+82,grape,Purple,Small,8.30338479
+83,apple,Yellow,Large,106.2719314
+84,apple,Green,Medium,99.18898489
+85,grape,Green,Medium,5.822352899
+86,banana,Creamy White,Small,45.13167595
+87,banana,Green,Medium,116.3748414
+88,banana,Creamy White,Small,32.32644964
+89,apple,Red,Medium,118.1736162
+90,banana,Creamy White,Medium,79.90323494
+91,apple,Yellow,Large,106.2719314
+92,grape,Purple,Medium,4.824470755
+93,apple,Red,Small,43.2879693
+94,apple,Pink,Large,50.57733668
+95,apple,Red,Large,92.59265388
+96,apple,Pink,Large,86.73924006
+97,apple,Yellow,Medium,25.03832256
+98,banana,Yellow,Medium,74.61519234
+99,apple,Red,Small,106.2719314
+100,grape,Yellow,Small,5.822352899
+101,apple,Green,Small,123.0683952
+102,banana,Green,Medium,56.05648982
+103,apple,Green,Largee,130.7218665
+104,banana,Yellow,Medium,54.83180911
+105,banana,Yellow,Large,116.3805427
+106,grape,Black,Small,6.461906344
+107,grape,Black,Medium,6.80772651
+108,banana,Green,Large,70.31401279
+109,grape,Green,Small,6.461906344
+110,banana,Yellow,Medium,56.05648982
+111,banana,Pale Yellow,Large,107.7779184
+112,apple,Yellow,Medium,85.24782703
+113,grape,Yellow,Small,6.461906344
+114,banana,Creamy White,Small,94.4326333
+115,apple,Red,Medium,68.72025424
+116,banana,Green,Large,93.43820612
+117,apple,Red,Medium,85.18897979
+118,apple,Yellow,Large,92.57893395
+119,banana,Yellow,Large,94.36781461
+120,banana,Pale Yellow,Medium,57.49857482
+121,banana,Creamy White,Small,57.49857482
+122,grape,Green,Tiny,8.30338479
+123,banana,Yellow,Large,70.31401279
+124,banana,Yellow,Medium,26.52458653
+125,apple,Red,Largee,68.72025424
+126,grape,Purple,Small,6.366469144
+127,grape,Purple,Small,9.77454556
+128,apple,Green,Small,106.2719314
+129,banana,Yellow,Largee,56.05648982
+130,apple,Green,Medium,92.59265388
+131,banana,Green,Large,39.07244748
+132,banana,Green,Small,46.14579019
+133,apple,Red,Largee,50.57733668
+134,banana,Yellow,Largee,77.12120021
+135,banana,Green,Large,94.36781461
+136,grape,Green,Medium,6.366469144
+137,grape,Red,Medium,7.210973735
+138,grape,Green,Small,10.90219764
+139,grape,Green,Small,9.909564657
+140,grape,Yellow,Tiny,9.456228491
+141,banana,Green,Large,26.52458653
+142,banana,Creamy White,Medium,57.49857482
+143,grape,Purple,Small,9.456228491
+144,banana,Green,Medium,94.4326333
+145,grape,Black,Tiny,6.461906344
+146,grape,Black,Medium,5.717561341
+147,grape,Yellow,Medium,4.824470755
+148,grape,Yellow,Small,5.371310192
+149,grape,Yellow,Small,5.371310192
+150,apple,Pink,Largee,130.7218665
+151,grape,Yellow,Tiny,9.456228491
+152,apple,Green,Largee,43.2879693
+153,apple,Yellow,Large,96.38009167
+154,banana,Creamy White,Small,78.3747867
+155,apple,Pink,Large,123.0683952
+156,grape,Black,Medium,6.461906344
+157,grape,Green,Medium,6.646753328
+158,banana,Yellow,Large,78.3747867
+159,banana,Yellow,Large,57.22769752
+160,grape,Red,Medium,7.668747038
+161,apple,Pink,Small,108.0344696
+162,apple,Yellow,Large,123.0683952
+163,apple,Green,Largee,96.04021592
+164,apple,Red,Small,108.0344696
+165,apple,Green,Largee,68.72025424
+166,apple,Pink,Small,80.97637018
+167,apple,Pink,Medium,85.18897979
+168,banana,Creamy White,Medium,77.12120021
+169,grape,Yellow,Tiny,5.717561341
+170,apple,Pink,Largee,68.72025424
+171,apple,Green,Small,137.927572
+172,grape,Yellow,Tiny,6.370480241
+173,apple,Pink,Medium,118.1736162
+174,banana,Green,Small,116.3805427
+175,apple,Green,Medium,8.300753028
+176,banana,Green,Large,46.14579019
+177,banana,Green,Small,98.50786926
+178,apple,Red,Large,25.03832256
+179,apple,Yellow,Small,96.38009167
+180,banana,Creamy White,Small,32.32644964
+181,apple,Red,Largee,96.38009167
+182,apple,Red,Small,92.03583555
+183,banana,Green,Medium,109.3762729
+184,banana,Green,Large,57.49857482
+185,grape,Green,Tiny,6.80772651
+186,grape,Red,Tiny,4.651554368
+187,grape,Purple,Tiny,9.856588664
+188,banana,Pale Yellow,Large,106.1173685
+189,banana,Creamy White,Small,116.3805427
+190,banana,Pale Yellow,Medium,116.3748414
+191,grape,Black,Medium,6.215846475
+192,grape,Green,Medium,10.90219764
+193,banana,Green,Largee,46.14579019
+194,grape,Green,Small,4.309717913
+195,grape,Purple,Small,9.77454556
+196,banana,Pale Yellow,Large,39.01296159
+197,grape,Red,Small,7.409021365
+198,grape,Red,Medium,4.651554368
+199,grape,Red,Medium,5.937050796
