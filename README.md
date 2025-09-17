@@ -1,27 +1,5 @@
 # Fruit Classifier Web Application
 
-This project develops a simple web application to classify fruits (banana, grape, or apple) based on their color, size, and weight using machine learning. The application is built with Streamlit for the user interface and `scikit-learn` for the machine learning model.
-
-## Table of Contents
-
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Setup and Installation](#setup-and-installation)
-- [How to Run](#how-to-run)
-- [Data (fruit_data.csv)](#data-fruit_datacsv)
-- [Model Details](#model-details)
-- [Project Evaluation: A Reflection on My Work](#project-evaluation-a-reflection-on-my-work)
-
----
-
-## Features
-
--   **Interactive Input**: Users can input fruit features (color, size, weight) via dropdowns and a number input.
--   **Real-time Prediction**: Get instant fruit classification results.
--   **Confidence Score**: Displays the model's confidence in its prediction.
--   **Visual Feedback**: Shows an image of the predicted fruit type.
--   **Machine Learning Pipeline**: Robust preprocessing and classification workflow.
-
 ## Project Structure
 
 ```
