@@ -29,12 +29,11 @@ Follow these steps to get the project up and running on your local machine.
 ### Prerequisites
 
 -   Python 3.8+ installed.
-    (If you need to update Python, please download the latest installer from [python.org/downloads/](https://www.python.org/downloads/) and ensure "Add Python X.X to PATH" is checked during installation.)
 
 ### Steps
 
 1.  **Clone the Repository (or download the files):**
-    If this were a Git repository, you'd clone it. For this project, ensure all files (`model_training.py`, `app.py`, `requirements.txt`, `fruit_data.csv`, and the `assets` folder with images) are in a single directory.
+    Ensure all files (`model_training.py`, `app.py`, `requirements.txt`, `fruit_data.csv`, and the `assets` folder with images) are in a single directory.
 
 2.  **Navigate to the Project Directory:**
     Open your Command Prompt (`cmd.exe`) and change to the project's root directory:
